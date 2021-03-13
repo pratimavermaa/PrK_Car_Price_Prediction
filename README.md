@@ -1,2 +1,3 @@
 # PrK_Car_Price_Prediction
-This is Car Price Prediction practice problem using kaggle DS created using Krish Naik youtube video.
+This is Car Price Prediction practice problem using kaggle DS
+Reference: Krish Naik youtube
